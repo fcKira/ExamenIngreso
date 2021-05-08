@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\bin\Debug\ExamenDeIngreso.exe.config
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\bin\Debug\ExamenDeIngreso.exe
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\bin\Debug\ExamenDeIngreso.pdb
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.Form1.resources
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.Properties.Resources.resources
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.exe
+C:\Users\franc\Desktop\Visual codes\ExamenDeIngreso\obj\Debug\ExamenDeIngreso.pdb
