@@ -1,6 +1,14 @@
 # ExamenIngreso
 
-Respuestas:
+# Detalles:
+
+Hubo metodos como por ejemplo el de calcular precio final que preferi hacerlo en una clase por fuera de la clase Cotizacion de modo que si la manera de cotizar las prendas cambian, solo hay que cambiar la clase que controla la ecuacion y no la clase Cotizacion que contiene datos.
+Ademas va a haber mas de una instancia de la clase Cotizaciones debido a que se requiere una lista para mostrar el historial y la ecuacion de como valorar la prenda no es necesaria que este tantas veces instanciada junto con la clase mencionada.
+
+No evalue el cambio de stock una vez realizada la compra debido a que, si no estoy mal, en las consignas no se hace mencion y ademas me di cuenta a poco tiempo de entrega.
+
+
+# Respuestas:
 
 PARTE F - 1 ¿Cómo se podría establecer a estos objetos como imprimibles?. 
 - Si nos referimos a agregarle una funcionalidad extra, la manera de hacerlo seria mediante interfaces. Creando una nueva interface IPrintable y luego que las clases necesarias implementen la interfaz.
